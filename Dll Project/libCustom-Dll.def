@@ -1,0 +1,6 @@
+EXPORTS
+    GetHealth @1 DATA
+    SetHealth @2 DATA
+    _Z10MainThreadPv @3
+    g_hModule @4 DATA
+    g_threadID @5 DATA
