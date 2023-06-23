@@ -7,4 +7,4 @@ Things included:
 - Dll Injector - http://www.extremeinjector.com/
 - A simple program as a test subject
 
-All this is done in MinGW!
+All of it is done in MinGW!
