@@ -13,4 +13,4 @@ This is base to start an internal hack.
 - Select the `Custom-Dll.dll` and inject it in `test-subject.exe` process.
 - Now the value of variable `g_health` should be changed to `50`.
 
-All of it is done in MinGW!
+> Compiler used: The compiler included in Dev C++ 'MinGW'
