@@ -13,6 +13,6 @@ This is base to start an internal hack.
 - Select the `Custom-Dll.dll` and inject it in `test-subject.exe` process.
 - Now the value of variable `g_health` should be changed to `50`.
 
-> Dev C++ version: Some old version, I would say, the classic version. I guess it was 'Dev-Cpp 5.11 TDM-GCC 4.9.2' from https://sourceforge.net/projects/orwelldevcpp/
-<br>
-> Compiler used: The compiler included in Dev C++ 'MinGW'
+## Tools Used
+- Compiler used: The compiler included in Dev C++ 'MinGW'
+- Dev C++ version: Some old version, I would say, the classic version. I guess it was 'Dev-Cpp 5.11 TDM-GCC 4.9.2' from https://sourceforge.net/projects/orwelldevcpp/
