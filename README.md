@@ -1,6 +1,6 @@
-# internal-hack
+# Internal Hack POC
 
-This is base to start an internal hack.
+This is could serve as base to start from.
 
 ## Things included
 - Dev C++ Project that creates custom dll.
